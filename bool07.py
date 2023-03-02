@@ -8,4 +8,6 @@ def main(a,b):
         bool
     """
     # Write your code here
-    return 
+    return (bool((a!=b)))
+x=main(a=3,b=3)
+print(x)
