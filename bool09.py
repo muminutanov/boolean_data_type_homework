@@ -7,6 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return (bool(a>0))
+    return (bool(0<a<=9))
 x=main(a=3) 
 print(x)
