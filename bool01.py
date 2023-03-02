@@ -9,6 +9,6 @@ def main(a,b):
     """
     # Write your code here
     
-    return((a=b))
-x=main (bool(1,1))
+    return(bool(a==b))
+x=main(a=8,b=8)
 print(x)
