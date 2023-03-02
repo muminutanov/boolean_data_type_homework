@@ -8,5 +8,5 @@ def main(a):
     """
     # Write your code here
     return(bool(a>=0))
-x=main(a=0)
+x=main(0)
 print(x)
